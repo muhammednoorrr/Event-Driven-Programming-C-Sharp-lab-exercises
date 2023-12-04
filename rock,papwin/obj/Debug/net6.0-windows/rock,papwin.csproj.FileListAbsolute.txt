@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\rock,papwin\bin\Debug\net6.0-windows\rock,papwin.exe
+C:\Users\PC\source\repos\rock,papwin\bin\Debug\net6.0-windows\rock,papwin.deps.json
+C:\Users\PC\source\repos\rock,papwin\bin\Debug\net6.0-windows\rock,papwin.runtimeconfig.json
+C:\Users\PC\source\repos\rock,papwin\bin\Debug\net6.0-windows\rock,papwin.dll
+C:\Users\PC\source\repos\rock,papwin\bin\Debug\net6.0-windows\rock,papwin.pdb
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock_papwin.Form1.resources
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.AssemblyInfo.cs
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.dll
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\refint\rock,papwin.dll
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.pdb
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\rock,papwin.genruntimeconfig.cache
+C:\Users\PC\source\repos\rock,papwin\obj\Debug\net6.0-windows\ref\rock,papwin.dll
